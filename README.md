@@ -22,4 +22,4 @@
 > * 포스트코로나 AI챌린지 최우수상(<http://www.lecturernews.com/news/articleView.html?idxno=44223>)
 > * 2020년 대통력직속 국가교육회의 청년특별위원회 청년 자문단
 > * KT 모바일퓨처리스트 18기
-> * 젯브레인 서포터즈 2기
+> * Jetbrains 서포터즈 2기
