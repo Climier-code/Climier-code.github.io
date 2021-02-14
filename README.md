@@ -1,25 +1,8 @@
-강종연의 이모저모
-=========
+# 해달 교육운영진 과제1
+> 부트스트랩 이용하여 자기소개 페이지 만들기
 
-# 1.기초사항
+## Finish
+<a title="finish_img"><img src="https://github.com/Climier-code/Climier-code.github.io/blob/master/finish_image.png" alt="HTML5" width="50%" ></a>
 
-
-> * 이름: 강종연
->
-> * 출신지역: 경상북도 경산시
->
-> * 학과: 경북대학교 컴퓨터학부 2학년
->
-> * 좋아하는 것: 맛있는거 먹는것(특히 고기)
->
-> * 좌우명: 한번 사는 인생, 일단 열심히, 빡세게, 재밌게 살아보자
-
--------
-# 2.이력 및 전공관련
-
-> * 주로 쓰는 언어: `python` 
-> * 해달프로그래밍 정회원 및 교육운영진
-> * 포스트코로나 AI챌린지 최우수상(<http://www.lecturernews.com/news/articleView.html?idxno=44223>)
-> * 2020년 대통력직속 국가교육회의 청년특별위원회 청년 자문단
-> * KT 모바일퓨처리스트 18기
-> * Jetbrains 서포터즈 2기
+## Used tool
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="42px" height="42px"></a><a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="42px" height="42px"></a><a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/bootstrap.svg" alt="Bootstrap" width="42px" height="42px"></a>
