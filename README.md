@@ -3,7 +3,7 @@
 # 해달 교육운영진 과제1
 > 부트스트랩 이용하여 자기소개 페이지 만들기
 
-## Finish
+## Preview
 <a title="finish_img"><img src="https://github.com/Climier-code/Climier-code.github.io/blob/master/finish_image.png" width="50%" ></a>
 
 ## Used tool
